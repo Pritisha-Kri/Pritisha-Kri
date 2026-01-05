@@ -50,6 +50,7 @@ design while working on academic and internship-based projects.
 - Downloadable financial reports (PDF / CSV)
 
 🔗 **GitHub Repo:** https://github.com/Pritisha-Kri/TaxPal-Personal-Finance-Tax-Estimator
+
 🎥 **Demo Video:** https://drive.google.com/file/d/1YfNB8r62eV90-QjDsU3tvCWSX_NzRlrO/view?usp=sharing
 
 ---
