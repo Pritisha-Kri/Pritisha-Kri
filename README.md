@@ -18,6 +18,11 @@ design while working on academic and internship-based projects.
 
 ---
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Pritisha-Kri&show_icons=true&theme=default)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend**
