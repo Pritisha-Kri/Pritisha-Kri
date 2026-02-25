@@ -1,81 +1,18 @@
-# Hi 👋, I'm Pritisha Kumari
+# 💫 About Me:
+Hi 👋, I'm Pritisha Kumari<br>🎓 B.Tech 3rd year Computer Science Engineering Student<br>💻 Full-Stack Developer (MERN Aspirant)<br>🚀 Infosys Springboard Virtual Internship 6.0<br>🌱 Passionate about building real-world, scalable web applications<br><br>👩‍💻 About Me<br>I am a Computer Science student with a strong interest in full-stack web development. I enjoy designing and developing applications that solve real-world problems and help users manage their work efficiently.<br><br>Currently, I am enhancing my skills in React, Node.js, MongoDB, and backend system design while working on academic and internship-based projects.<br><br>📊 GitHub Stats<br>Stats<br><br>🛠️ Tech Stack<br>Frontend<br><br>HTML5, CSS3, JavaScript<br>React<br>Backend<br><br>Node.js / Java<br>REST APIs<br>Database<br><br>MongoDB<br>Tools<br><br>Git & GitHub<br>VS Code<br>Figma<br>🚀 Featured Projects<br>💼 TaxPal – Personal Finance & Tax Estimator<br>📌 Infosys Springboard Virtual Internship 6.0<br><br>Full-stack web application for freelancers<br>Income & expense tracking<br>Budget planning with category limits<br>Region-based tax estimation<br>Downloadable financial reports (PDF / CSV)<br>🔗 GitHub Repo: https://github.com/Pritisha-Kri/TaxPal-Personal-Finance-Tax-Estimator<br><br>🎥 Demo Video: https://drive.google.com/file/d/1YfNB8r62eV90-QjDsU3tvCWSX_NzRlrO/view?usp=sharing<br><br>📈 What I'm Currently Learning<br>Advanced React concepts<br>Backend architecture & API optimization<br>Database design & performance<br>Data Structures & Algorithms (Java)<br>🤝 Let's Connect<br>💼 LinkedIn: https://www.linkedin.com/in/pritisha-kumari-7a2999293/<br>📧 Email: pritishakumari.official@gmail.com<br>🌐 GitHub: https://github.com/Pritisha-Kri<br>⭐ Feel free to explore my repositories and connect with me.<br>I'm always open to learning, collaboration, and new opportunities!
 
-🎓 B.Tech Computer Science Engineering Student  
-💻 Full-Stack Developer (MERN Aspirant)  
-🚀 Infosys Springboard Virtual Internship 6.0  
-🌱 Passionate about building real-world, scalable web applications  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritisha-kumari-7a2999293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritishakumari.official@gmail.com) 
 
-## 👩‍💻 About Me
-
-I am a Computer Science student with a strong interest in **full-stack web development**.
-I enjoy designing and developing applications that solve real-world problems and
-help users manage their work efficiently.
-
-Currently, I am enhancing my skills in **React, Node.js, MongoDB**, and backend system
-design while working on academic and internship-based projects.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pritisha-Kri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pritisha-Kri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritisha-Kri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Pritisha-Kri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Pritisha-Kri&show_icons=true&theme=default)
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-- HTML5, CSS3, JavaScript
-- React
-
-**Backend**
-- Node.js / Java
-- REST APIs
-
-**Database**
-- MongoDB
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Figma
-
----
-
-## 🚀 Featured Projects
-
-### 💼 TaxPal – Personal Finance & Tax Estimator
-📌 *Infosys Springboard Virtual Internship 6.0*
-
-- Full-stack web application for freelancers
-- Income & expense tracking
-- Budget planning with category limits
-- Region-based tax estimation
-- Downloadable financial reports (PDF / CSV)
-
-🔗 **GitHub Repo:** https://github.com/Pritisha-Kri/TaxPal-Personal-Finance-Tax-Estimator
-
-🎥 **Demo Video:** https://drive.google.com/file/d/1YfNB8r62eV90-QjDsU3tvCWSX_NzRlrO/view?usp=sharing
-
----
-
-## 📈 What I'm Currently Learning
-
-- Advanced React concepts
-- Backend architecture & API optimization
-- Database design & performance
-- Data Structures & Algorithms (Java)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/pritisha-kumari-7a2999293/
-- 📧 Email: pritishakumari.official@gmail.com
-- 🌐 GitHub: https://github.com/Pritisha-Kri
-
----
-
-⭐ *Feel free to explore my repositories and connect with me.  
-I'm always open to learning, collaboration, and new opportunities!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
