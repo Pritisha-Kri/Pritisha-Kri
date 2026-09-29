@@ -8,8 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritisha-kumari-7a2999293/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritishakumari.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Pritisha-Kri&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pritisha-kumari.vercel.app/)
 
 </div>
 
