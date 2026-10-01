@@ -107,6 +107,7 @@ Built responsive React.js interfaces, integrated Node.js / Express / PostgreSQL 
 - 🗄️ Scalable **PostgreSQL** schemas and RESTful APIs
 
 `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT` `Tailwind CSS`
+.
 
 🔗 [View Repository](https://github.com/Pritisha-Kri/REPO-NAME)
 
