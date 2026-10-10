@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science undergraduate** (B.Tech, CGPA **9.12/10**) who loves turning real-world problems into clean, scalable software. I've shipped code to a **live production accounting platform**, built **role-based systems**, and won an **internal Smart India Hackathon** with an AI-driven optimizer.
+I'm a **Computer Science undergraduate** (B.Tech, current SGPA **9.12/10**) who loves turning real-world problems into clean, scalable software. I've shipped code to a **live production accounting platform**, built **role-based systems**, and won an **internal Smart India Hackathon** with an AI-driven optimizer.
 
 ```js
 const pritisha = {
