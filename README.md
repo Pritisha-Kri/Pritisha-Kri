@@ -158,10 +158,10 @@ Built responsive React.js interfaces, integrated Node.js / Express / PostgreSQL 
 
 ## 📈 Currently Levelling Up
 
-- 🧩 Data Structures & Algorithms in Java
-- 🏗️ Backend architecture & API performance optimization
-- 🗄️ Database design & query performance
-- 🤖 Applying ML + optimization to real-world scheduling problems
+- 🧩 Data Structures & Algorithms in Java.
+- 🏗️ Backend architecture & API performance optimization.
+- 🗄️ Database design & query performance.
+- 🤖 Applying ML + optimization to real-world scheduling problems.
 
 ---
 
