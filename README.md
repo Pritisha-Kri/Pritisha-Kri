@@ -82,7 +82,7 @@ Built responsive React.js interfaces, integrated Node.js / Express / PostgreSQL 
 
 </div>
 
----
+--------
 
 ## 🚀 Featured Projects
 
